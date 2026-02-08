@@ -2,9 +2,9 @@
 My introduction
 👋 Hi, I'm Ansh Singhal
 
-🚀 Full Stack Developer | Blockchain & AI Enthusiast | IEEE Member | 2019 IMO Gold Medalist
+🚀 Full Stack Developer | Blockchain & AI Enthusiast | IEEE Member | 2019 SOF IMO gold medalist
 
-I’m a 19-year-old developer passionate about building scalable web apps, blockchain-based systems, and AI-powered solutions. Currently working on MERN stack + blockchain  and exploring self-hosted AI models.
+I’m a 21-year-old developer passionate about building scalable web apps, blockchain-based systems, and AI-powered solutions. Currently working on  generative AI  and exploring self-hosted AI models.
 
 
 
@@ -15,7 +15,7 @@ I’m a 19-year-old developer passionate about building scalable web apps, block
 jee main 93 percentile 
 COMEDK score 94 percentile (maths 98.37 percentile) maths rank 849/66000
 
-🎓 Currently exploring MERN Stack, Blockchain, and Ai  for real-world problem solving.
+🎓 Currently exploring generative AI  for real-world problem solving.
 
 👨‍💻 Built projects like:
 
@@ -26,13 +26,13 @@ Plan My Shaadi 🎉 – Wedding planning platform with blockchain escrow payment
 IoT + Web3 Hackathon Idea 🛰️ – Smart hardware integration with blockchain.
 
 
-🔐 Experience with MetaMask, Truffle, Solidity, smart contracts, and blockchain testnets (Sepolia).
+🔐 Experience with MetaMask, Hardhat, Solidity, smart contracts, and blockchain testnets (Sepolia).
 
-🛠️ Comfortable with HTML, CSS, JavaScript, C, C++, Node.js, Express.js, and ReactJS & AI tools.
+🛠️ Comfortable with HTML, CSS, JavaScript, React , Redux , DaisyUI, C++, Node.js, Express.js, mongoDB, Redis, Solidity & AI tools.
 
 📖 Strong foundation in Data Structures & Algorithms (DSA) and competitive programming mindset.
 
-♟️ Chess lover (currently rated ~1400 on Chess.com, aiming higher 🚀).
+♟️ Chess lover (currently rated ~1200 on Chess.com, aiming higher 🚀).
 
 
 
@@ -41,17 +41,17 @@ IoT + Web3 Hackathon Idea 🛰️ – Smart hardware integration with blockchain
 ⚡ Tech Stack
 
 Languages:
-C C++ JavaScript Python (basic)
+C C++ JavaScript Python 
 
 Web Development:
-HTML CSS JavaScript Node.js Express.js ReactJS tailwand css
+HTML CSS JavaScript Node.js Express.js ReactJS, Redux ,tailwand css.Daisy UI  MongoDB, Redis
 
 Blockchain:
-Solidity Truffle MetaMask Web3.js Smart Contracts
+Solidity Hardhat MetaMask Web3.js Smart Contracts
 
 Databases:
-MongoDB (basic) No-SQL concepts
+MongoDB , SQL
 
 Other Tools & Platforms:
-Git GitHub vs code 
+Git GitHub,  vsCode 
 
