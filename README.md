@@ -13,9 +13,9 @@ I’m a 21-year-old developer passionate about building scalable web apps, block
 
 🏆 2019 IMO Gold Medalist (Problem Solving Mindset 💡).
 jee main 93 percentile 
-COMEDK score 94 percentile (maths 98.37 percentile) maths rank 849/66000
+COMEDK score 94 percentile (maths 98.37 percentile) 
 
-🎓 Currently exploring generative AI  for real-world problem solving.
+🎓 Currently exploring generative AI  for real-world problem solving automation.
 
 👨‍💻 Built projects like:
 
